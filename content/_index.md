@@ -44,22 +44,7 @@ sections:
       username: admin
       # Override your bio text from `authors/admin/_index.md`?
       text:  My main research direction is high-density solid-state storage performance optimization technology, flash memory reliability improvement research, storage system access feature characterization and optimization, etc.
-  - block: features
-    content:
-      title: Skills
-      items:
-        - name: R
-          description: 90%
-          icon: r-project
-          icon_pack: fab
-        - name: Statistics
-          description: 100%
-          icon: chart-line
-          icon_pack: fas
-        - name: Photography
-          description: 10%
-          icon: camera-retro
-          icon_pack: fas
+
   - block: experience
     content:
       title: Experience
