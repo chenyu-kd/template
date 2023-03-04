@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Alice Wu 吳恩達
+title: Li Qiao
 
 # Full name (for SEO)
 first_name: Alice
@@ -14,12 +14,12 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: Professor of Computer Science
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: xiamen University
+    url: https://www.xmu.edu.cn
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
@@ -33,14 +33,14 @@ interests:
 # Education to show in About widget
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
+    - course: PhD in Computer science
+      institution: City University of Hong Kong
+      year: 2017
+    - course: master in Computer Science 
+      institution: Chongqing University
+      year: 2014
+    - course: bachelor in Information Security
+      institution: Chongqing University
       year: 2008
 
 # Social/Academic Networking
@@ -80,5 +80,7 @@ email: ''
 highlight_name: true
 ---
 
-Alice Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Data is a basic national strategic resource, and data storage is an area that academia and industry attach great importance to. Committed to solving the problems and challenges in the storage system in the field of computer system structure, mainly researching high-density solid-state storage performance optimization technology, flash memory reliability improvement research, storage system access feature characterization and optimization, etc., combining storage hardware and software to improve storage systems capacity, performance, and reliability. Published more than 40 papers on international conferences and journals, including 14 papers as the first author, including MICRO (CCF A), FAST (CCF A) and DAC (CCF A), the top conferences on computer architecture and storage systems , as well as top journals IEEE Trans. on Computers (CCF A), IEEE Trans. on Storage (CCF A) and TCAD (CCF A), etc., some of which won the Best Paper Award of HotStorage 2021, an important conference in the storage field, and ASP-DAC 2017 Best Paper Nomination Award.
+
+It recruits doctoral and master students, and also welcomes undergraduate students who are interested in scientific research.
 {style="text-align: justify;"}
