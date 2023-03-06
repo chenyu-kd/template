@@ -3,8 +3,8 @@
 title: Li Qiao
 
 # Full name (for SEO)
-first_name: Li
-last_name: Qiao
+first_name: Alice
+last_name: Wu
 
 # Status emoji
 status:
@@ -22,7 +22,7 @@ organizations:
     url: https://www.xmu.edu.cn
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include performance optimization technology for high-density solid-state storage, research on reliability improvement of flash memory, characterization and optimization of storage system access characteristics, etc.
+bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 # Interests to show in About widget
 interests:
@@ -80,7 +80,7 @@ email: ''
 highlight_name: true
 ---
 
-<p align="left">数据是国家基础性战略资源，数据存储是学术界和工业界极为重视的领域。致力于解决计算机系统结构领域中存储系统中的难题与挑战，主要研究高密度固态存储性能优化技术、闪存存储器可靠性改善研究、存储系统访问特征刻画与优化等，结合存储硬件与软件提升存储系统的容量、性能、可靠性。相关成果在国际会议及期刊上发表40余篇论文，其中以第一作者发表论文14篇，包括计算机体系结构与存储系统顶级会议MICRO（CCF A）、FAST（CCF A）和DAC（CCF A），以及顶级期刊IEEE Trans. on Computers（CCF A）、IEEE Trans. on Storage（CCF A）和TCAD（CCF A）等，其中部分工作获得存储领域重要会议HotStorage 2021最佳论文奖和ASP-DAC 2017最佳论文提名奖。</p>
+Data is a basic national strategic resource, and data storage is an area that academia and industry attach great importance to. Committed to solving the problems and challenges in the storage system in the field of computer system structure, mainly researching high-density solid-state storage performance optimization technology, flash memory reliability improvement research, storage system access feature characterization and optimization, etc., combining storage hardware and software to improve storage systems capacity, performance, and reliability. Published more than 40 papers on international conferences and journals, including 14 papers as the first author, including MICRO (CCF A), FAST (CCF A) and DAC (CCF A), the top conferences on computer architecture and storage systems , as well as top journals IEEE Trans. on Computers (CCF A), IEEE Trans. on Storage (CCF A) and TCAD (CCF A), etc., some of which won the Best Paper Award of HotStorage 2021, an important conference in the storage field, and ASP-DAC 2017 Best Paper Nomination Award.
 
-招收博士、硕士研究生，也欢迎对科研感兴趣的本科同学。
+It recruits doctoral and master students, and also welcomes undergraduate students who are interested in scientific research.
 {style="text-align: justify;"}
