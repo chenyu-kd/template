@@ -1,13 +1,13 @@
 ---
-title: "How the common retention acceleration method of 3D NAND flash memory goes wrong?"
+title: "Leveraging Approximate Data for Robust Flash Storage"
 authors:
 - Qiao Li
 - Min Ye
-date: "2021-04-07T00:00:00Z"
+date: "2019-04-07T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2021-01-01T00:00:00Z"
+publishDate: "2019-01-01T00:00:00Z"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -16,13 +16,13 @@ publishDate: "2021-01-01T00:00:00Z"
 publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: "13th USENIX Workshop on Hot Topics in Storage and File Systems "
-publication_short: "*Hotstorage 2021*"
+publication: "56th ACM/IEEE Design Automation Conference "
+publication_short: "*DAC 2019*"
 
-abstract: The reliability of solid-state drives (SSDs) has become increasingly important as SSDs are now widely applied in data centers. Retention error is a major source of impact on the reliability of SSDs. Even though the common practice in understanding the retention errors of an SSD is done by high-temperature baking processes, their characterization accuracy is not yet rigidly reviewed. In this paper, we first present how the common retention acceleration method goes wrong. Through a one-year study of 3D flash error behaviors, we found that the retention errors through baking with high temperatures have very different characteristics from the real long-retention errors. These differences come from the inherent structure and the materials of 3D NAND flash. Several findings regarding the retention errors characterized through baking are presented, followed by the analysis of the error behaviors. Finally, the retention errors of one year on 3D flash memory are provided with real data.
+abstract: With the increasing bit density and adoption of 3D NAND, flash memory suffers from increased errors. To address the issue, flash devices adopt error correction codes (ECC) with strong error correction capability, like low-density parity-check (LDPC) code, to correct errors. The drawback of LDPC is that, to correct data with a high raw bit error rate (RBER), read latency will be amplified. This work proposes to address this issue with the assistance of approximate data. First, studies have been conducted and show there are ample amount of approximate data available in flash storage. Second, a novel data organization is proposed to fortify the reliability of regular data by leaving approximate data unprotected. Finally, a new data allocation strategy and modified garbage collection scheme are presented to complete the design. The experimental results show that the proposed approach can improve read performance by 30% on average comparing to current techniques.
 
 # Summary. An optional shortened abstract.
-summary: this paper conducted a one-year experiment over the latest 3D NAND flash memory chips to study the long-retention errors. 
+summary: 
 
 tags:
 - Source Themes
@@ -31,7 +31,7 @@ featured: false
 links:
 - name: Custom Link
   url: http://example.org
-url_pdf: uploads/Hotstorage2021.pdf
+url_pdf: uploads/DAC2019.pdf
 url_code: '#'
 url_dataset: '#'
 url_poster: '#'
