@@ -80,7 +80,7 @@ email: ''
 highlight_name: true
 ---
 
-<p align="left">数据是国家基础性战略资源，数据存储是学术界和工业界极为重视的领域。致力于解决计算机系统结构领域中存储系统中的难题与挑战，主要研究高密度固态存储性能优化技术、闪存存储器可靠性改善研究、存储系统访问特征刻画与优化等，结合存储硬件与软件提升存储系统的容量、性能、可靠性。相关成果在国际会议及期刊上发表40余篇论文，其中以第一作者发表论文14篇，包括计算机体系结构与存储系统顶级会议MICRO（CCF A）、FAST（CCF A）和DAC（CCF A），以及顶级期刊IEEE Trans. on Computers（CCF A）、IEEE Trans. on Storage（CCF A）和TCAD（CCF A）等，其中部分工作获得存储领域重要会议HotStorage 2021最佳论文奖和ASP-DAC 2017最佳论文提名奖。</p>
+<p align="left">数据是国家基础性战略资源，数据存储是学术界和工业界极为重视的领域。致力于解决计算机系统结构领域中存储系统中的难题与挑战，主要研究高密度固态存储性能优化技术、闪存存储器可靠性改善研究、存储系统访问特征刻画与优化等，结合存储硬件与软件提升存储系统的容量、性能、可靠性。相关成果在国际会议及期刊上发表40余篇论文，其中以第一作者发表论文14篇，包括计算机体系结构与存储系统顶级会议MICRO（CCF A）、FAST（CCF A）和DAC（CCF A），以及顶级期刊IEEE Trans. on Computers（CCF A）、ACM Trans. on Storage（CCF A）和TCAD（CCF A）等，其中部分工作获得存储领域重要会议HotStorage 2021最佳论文奖和ASP-DAC 2017最佳论文提名奖。</p>
 
 招收博士、硕士研究生，也欢迎对科研感兴趣的本科同学。
 {style="text-align: justify;"}

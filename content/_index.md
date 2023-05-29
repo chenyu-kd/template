@@ -126,20 +126,20 @@ sections:
       title: Contact
       subtitle:
       text: |-
-        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam mi diam, venenatis ut magna et, vehicula efficitur enim.
+             Welcome Email Contact
       # Contact (add or remove contact options as necessary)
       email: liqiao@xmu.edu.cn
-      phone: 18716426845
-      appointment_url: 'https://calendly.com'
+      phone: 
+      appointment_url: 
       address:
-        street: 曾厝垵西路
+        street: 厦门大学翔安校区
         city: 厦门市
-        region: 思明区
+        region: 翔安区
         postcode: 
         country: China
         country_code: 
       
-      #office_hours:
+      # office_hours:
         - 'Monday 10:00 to 13:00'
         - 'Wednesday 09:00 to 10:00'
       #contact_links:
