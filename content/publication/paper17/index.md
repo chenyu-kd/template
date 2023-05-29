@@ -3,6 +3,10 @@ title: "Online Rare Category Detection for Edge Computing"
 authors:
 - Yufei Cui
 - Qiao Li
+# Author notes (optional)
+author_notes:
+  - 
+  - '2'
 date: "2019-04-07T00:00:00Z"
 doi: ""
 

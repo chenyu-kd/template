@@ -1,8 +1,13 @@
 ---
 title: "How the common retention acceleration method of 3D NAND flash memory goes wrong?"
 authors:
-- "*Qiao Link*"
+- "*Qiao Li*"
 - Min Ye
+
+# Author notes (optional)
+author_notes:
+  - '1'
+  - 
 date: "2021-04-07T00:00:00Z"
 doi: ""
 

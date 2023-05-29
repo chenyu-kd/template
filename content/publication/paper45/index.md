@@ -3,6 +3,10 @@ title: " DWR: differential wearing for read performance optimization on high-den
 authors:
 - Yunpeng Song
 - Qiao Li
+# Author notes (optional)
+author_notes:
+  - 
+  - '2'
 date: "2022-04-07T00:00:00Z"
 doi: ""
 

@@ -3,6 +3,10 @@ title: " Access Characteristic Guided Read and Write Cost Regulation for Perform
 authors:
 - Qiao Li
 - Liang Shi
+# Author notes (optional)
+author_notes:
+  - '1'
+  - 
 date: "2016-04-07T00:00:00Z"
 doi: ""
 

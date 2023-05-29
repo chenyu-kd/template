@@ -3,6 +3,10 @@ title: "Multi-Granularity Shadow Paging with NVM Write Optimization for Crash-Co
 authors:
 - Hongchao Du
 - Qiao Li
+# Author notes (optional)
+author_notes:
+  - 
+  - '2'
 date: "2023-04-07T00:00:00Z"
 doi: ""
 

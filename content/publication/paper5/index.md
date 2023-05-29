@@ -3,6 +3,10 @@ title: "Sentinel Cells Enabled Fast Read for NAND Flash"
 authors:
 - Qiao Li
 - Min Ye
+# Author notes (optional)
+author_notes:
+  - '1'
+  - 
 date: "2019-04-07T00:00:00Z"
 doi: ""
 

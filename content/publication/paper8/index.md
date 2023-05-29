@@ -3,6 +3,10 @@ title: "A PV aware data placement scheme for read performance improvement on LDP
 authors:
 - Qiao Li
 - Liang Shi
+# Author notes (optional)
+author_notes:
+  - '1'
+  - 
 date: "2017-04-07T00:00:00Z"
 doi: ""
 

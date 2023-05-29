@@ -3,6 +3,10 @@ title: "Improving read performance via selective Vpass reduction on high density
 authors:
 - Qiao Li
 - Liang Shi
+# Author notes (optional)
+author_notes:
+  - '1'
+  - 
 date: "2017-04-07T00:00:00Z"
 doi: ""
 

@@ -3,6 +3,10 @@ title: " Improving LDPC performance via asymmetric sensing level placement on fl
 authors:
 - Qiao Li
 - Liang Shi
+# Author notes (optional)
+author_notes:
+  - '1'
+  - 
 date: "2017-04-07T00:00:00Z"
 doi: ""
 

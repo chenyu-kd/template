@@ -3,6 +3,10 @@ title: "Selective Compression Scheme for Read Performance Improvement on Flash D
 authors:
 - Qiao Li
 - Liang Shi
+# Author notes (optional)
+author_notes:
+  - '1'
+  - 
 date: "2018-04-07T00:00:00Z"
 doi: ""
 

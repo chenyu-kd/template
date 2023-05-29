@@ -3,6 +3,10 @@ title: "Resolving the Reliability Issues of Open Blocks for 3-D NAND Flash: Obse
 authors:
 - Qiao Li
 - Min Ye
+# Author notes (optional)
+author_notes:
+  - '1'
+  - 
 #author_notes:
 #- "Equal contribution"
 #- "Equal contribution"

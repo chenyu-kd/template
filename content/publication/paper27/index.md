@@ -3,6 +3,11 @@ title: "Reducing LDPC Soft Sensing Latency by Lightweight Data Refresh for Flash
 authors:
 - Yajuan Du
 - Qiao Li
+
+# Author notes (optional)
+author_notes:
+  - 
+  - '2'
 date: "2017-04-07T00:00:00Z"
 doi: ""
 

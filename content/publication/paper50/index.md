@@ -3,6 +3,10 @@ title: "Stop unnecessary refreshing: extending 3D NAND flash lifetime with ORBER
 authors:
 - Min Ye
 - Qiao Li
+# Author notes (optional)
+author_notes:
+  - 
+  - '2'
 #author_notes:
 #- "Equal contribution"
 #- "Equal contribution"

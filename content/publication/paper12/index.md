@@ -3,6 +3,10 @@ title: "Maximizing IO performance via conflict reduction for flash memory storag
 authors:
 - Qiao Li
 - Liang Shi
+# Author notes (optional)
+author_notes:
+  - '1'
+  - 
 date: "2015-04-07T00:00:00Z"
 doi: ""
 

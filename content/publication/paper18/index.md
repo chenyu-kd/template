@@ -3,6 +3,11 @@ title: "Mismatched Memory Management of Android Smartphones"
 authors:
 - Yu Liang
 - Qiao Li
+
+# Author notes (optional)
+author_notes:
+  - 
+  - '2'
 date: "2019-04-07T00:00:00Z"
 doi: ""
 

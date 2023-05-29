@@ -3,9 +3,9 @@ title: "Exploiting Asymmetric Errors for LDPC Decoding Optimization on 3D NAND F
 authors:
 - Qiao Li
 - Liang Shi
-#author_notes:
-#- "Equal contribution"
-#- "Equal contribution"
+author_notes:
+- "1"
+- 
 date: "2020-09-01T00:00:00Z"
 doi: ""
 
